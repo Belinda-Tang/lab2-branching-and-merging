@@ -26,7 +26,7 @@ This recipe makes a three-layer celebration cake with a raspberry filling betwee
 ## Frosting
 
 - 1 cup unsalted butter, softened
-- 4 cups powdered sugar
+- 3 cups powdered sugar
 - 2 teaspoons vanilla extract
 - 1/2 cup unsweetened cocoa powder
 - 2 tablespoons milk
